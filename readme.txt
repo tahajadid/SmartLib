@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+# Logo Design of the application 
 
-Theme Name: Tempo
-Theme URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+![image](https://github.com/tahajadid/SmartLib/blob/master/img/tstst.png) &nbsp;
